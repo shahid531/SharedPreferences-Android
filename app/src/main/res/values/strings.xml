@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StoreData</string>
+    <string name="save">SAVE</string>
+    <string name="get">GET</string>
+    <string name="remove">DELETE</string>
+    <string name="enterName">enter name</string>
+</resources>
